@@ -5,7 +5,7 @@ I have a profound interest in technology and a dedication to solving complex pro
 
 ## Objective
 
-As someone transitioning from a non-IT background, I have developed a strong passion for cybersecurity and am now determined to transition into this dynamic field. I am specifically focused on starting my journey as a Tier 1 Analyst in a Security Operations Center (SOC), where I can contribute to safeguarding systems while learning hands-on in a fast-paced environment.
+As someone transitioning from a non-IT background, I have developed a strong passion for cybersecurity and I am now determined to transition into this dynamic field. I am specifically focused on starting my journey as a Tier 1 Analyst in a Security Operations Center (SOC), where I can contribute to safeguarding systems while learning hands-on in a fast-paced environment.
 
 ## Skills
 
